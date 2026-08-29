@@ -32,6 +32,9 @@ description: Noonswoon is an early-stage consumer mobile startup surfaced as a p
   actively operating. No public API surface was found to catalog; this profile captures the identity,
   domain-security posture, and source-code footprint that remain discoverable.
 url: https://raw.githubusercontent.com/api-evangelist/noonswoon/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public API surface was found to catalog; this profile captures the identity, domain-security posture, and source-code footprint that remain discoverable."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
