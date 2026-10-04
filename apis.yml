@@ -46,13 +46,11 @@ created: '2026-07-17'
 modified: '2026-07-20'
 tags:
 - Company
-- Startups
 - Mobile
 - Consumer
 - Social
 tags_raw:
 - Company
-- Startup
 - Mobile
 - Consumer
 - Social
@@ -74,3 +72,7 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-tags-removed:
+- Startups
+x-company-stage: startup
+x-company-stage-evidence: "own tags: Startup"
